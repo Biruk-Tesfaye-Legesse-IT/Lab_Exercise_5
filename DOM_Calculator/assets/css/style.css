@@ -1,0 +1,27 @@
+textarea {
+    /* margin-left: 5px; */
+    width: 211px;
+}
+
+.myButton {
+    width: 3.125rem !important;
+    height: 3.125rem !important;
+    background-color: #fff200;
+    border-color: black;
+    /* margin: 0.313rem; */
+}
+
+.myButton1 {
+    width: 9.85rem !important;
+    height: 3.125rem !important;
+    border-color: black;
+    /* margin-left: 5px;
+    margin-right: 5px; */
+}
+
+.myButton2 {
+    width: 3.125rem !important;
+    height: 3.125rem !important;
+    border-color: rgb(33, 37, 41);
+    /* margin: 0.313rem; */
+}

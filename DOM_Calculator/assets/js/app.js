@@ -165,6 +165,17 @@ function divide(numbers) {
     return quotient;
 }
 
+function power(numbers) {
+
+    return numbers[0] ** numbers[1];
+}
+
+function sqrt(number) {
+
+    let final = Math.sqrt(number);
+    return final;
+}
+
 
 function clearDisplay(presentingArea) {
     presentingArea.value = "";
